@@ -1,6 +1,6 @@
-# ChatGPT 中文体验版｜2025年国内最佳ChatGPT镜像站推荐与免费入口（支持 GPT-4o/o1/o3/o4）
+# ChatGPT 中文体验版｜2025年国内最佳ChatGPT镜像站推荐与免费入口（支持 GPT-5/GPT-4o）
 
-## 📢 2025年全新ChatGPT中文体验，无需翻墙直连，支持GPT-4o/o1/o3/o4（6月15日最新整理）
+## 📢 2025年全新ChatGPT中文体验，无需翻墙直连，支持GPT-5/Claude4.5/Gemini3.0
 
 本页面专为中国用户设计，精选并推荐优质的 **ChatGPT 中文体验版镜像网站**，提供详细的操作指南，助力你在学习、工作、内容创作等领域高效使用全球领先的AI对话工具。无论你是学生、职场人士还是开发者，这里都能满足你的多样化需求！
 
@@ -10,8 +10,8 @@
 
 ## 🚀 快速访问通道
 
-- **ChatGPT 中文入口**：[chat.aibox365.cn](https://chat.aibox365.cn)  
-- **ChatGPT 镜像站导航**：[aibox365.com](https://aibox365.com)
+- **ChatGPT 中文入口**：[chat中文版](https://chat.aibox365.cn)  
+- **ChatGPT 镜像站导航**：[ai镜像站](https://chat.write360.cn)
 
 ---
 
@@ -31,8 +31,8 @@
 
 | 镜像站点 | 支持模型 | 免费体验 | 注册方式 | 访问稳定性 | 特色亮点 |
 |----------|----------|----------|----------|------------|----------|
-| [chat.aibox365.cn](https://chat.aibox365.cn) | GPT-4o, GPT-4.1, GPT-o1, GPT-o3, o4, Claude, Gemini, Grok, DeepSeek | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 支持GPT-4o与MJ绘图，适合开发、创作及日常对话 |
-| [aibox365.com](https://aibox365.com) | GPT-4, GPT-4o, GPT-4.1, GPT-o1, o3, o4, AIPPT, Midjourney | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 原版GPT-o1体验，支持AI插件与多功能助手 |
+| [aibox365.cn](https://chat.aibox365.cn) | GPT-4o, GPT-4.1, GPT-o1, GPT-o3, o4, Claude, Gemini, Grok, DeepSeek | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 支持GPT-4o与MJ绘图，适合开发、创作及日常对话 |
+| [ai镜像站](https://chat.write360.cn) | GPT-5, GPT-4o, GPT-4.1, GPT-o1, o3, o4, AIPPT, Midjourney | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 原版GPT-o1体验，支持AI插件与多功能助手 |
 | [mygpt.bid](https://mygpt.bid/) | GPT-4, GPT-4o, o1, o3 | 注册赠送免费额度 | 邮箱注册 | ⭐⭐⭐⭐ | 界面简洁，响应迅速，适合轻量级用户 |
 | [allyfy.chat](https://www.allyfy.chat/) | GPT-4, GPT-o1 | 每日5次免费 | 邮箱注册 | ⭐⭐⭐ | 轻量体验，适合新手，部分功能含广告 |
 
